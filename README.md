@@ -2,4 +2,6 @@
 Aplicativo desenvolvido com a api da Formula 1, para disciplina de react native.
 
 
-![alt text](https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-151603.png)
+![alt text]()
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-151603.png" width="250"> | 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-151629.png" width="250"> |
