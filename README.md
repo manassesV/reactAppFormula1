@@ -3,15 +3,15 @@
 
 **Aplicativo desenvolvido com a api da Formula 1, para disciplina de react native.**
 
-<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184118.png" width="200" > 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184118.png" width="200" > |
 
-<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184128.png" width="200"  > 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184128.png" width="200"  > |
 
-<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184139.png" width="200" > 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184139.png" width="200" > |
 
-<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184149.png" width="200" > 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184149.png" width="200" > |
 
-<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184156.png" width="200" > 
+<img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184156.png" width="200" > |
 
 <img src="https://github.com/manassesV/reactAppFormula1/blob/master/Screenshot_20190623-184204.png" width="200" > 
 
