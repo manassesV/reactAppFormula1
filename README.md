@@ -23,9 +23,9 @@
 
 *Instale o expo Scafoolding para projetos React Native. Instalar com o comando abaixo: npm install expo-cli -g ** Para iniciar o projeto basta executar o comando: expo init [NOME DO PROJETO](Se não foi instalado)
 
-*Digite npm install para instalar os pacotes.
+*Digite (npm install) para instalar os pacotes.
 
 
-*Digite npm start para iniciar.
+*Digite (npm start) para iniciar.
 
 
