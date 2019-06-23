@@ -18,10 +18,10 @@
 
 # Iniciar o projeto
 
--Faça download a partir do link https://github.com/manassesV/reactAppFormula1.git
+*Faça download a partir do link https://github.com/manassesV/reactAppFormula1.git
 
--Instale o expo Scafoolding para projetos React Native. Instalar com o comando abaixo: npm install expo-cli -g ** Para iniciar o projeto basta executar o comando: expo init [NOME DO PROJETO]
+*Instale o expo Scafoolding para projetos React Native. Instalar com o comando abaixo: npm install expo-cli -g ** Para iniciar o projeto basta executar o comando: expo init [NOME DO PROJETO]
 
--Antes de iniciar o projeto com expo digite npm install
+*Antes de iniciar o projeto com expo digite npm install
 
 
